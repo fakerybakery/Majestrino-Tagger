@@ -1,6 +1,6 @@
 # Majestrino Tagger
 
-Audio tagging with CLIP-style audio-text alignment using Whisper and GTE encoders.
+Audio tagging with CLIP-style audio-text alignment using Whisper and GTE encoders. [Model](https://huggingface.co/ChristophSchuhmann/Majestrino_0.11_alpha)
 
 ## Installation
 
